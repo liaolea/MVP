@@ -1,9 +1,5 @@
 # Modeling Variants of Prompts for Vision-Language Models
 
-<h5 align="center">
-[![arXiv](https://img.shields.io/badge/Arxiv-2501.13106-AD1C18.svg?logo=arXiv)](https://github.com/xiaoyaoxinyi/MVP) 
-</h5>
-
 ## Introduction
 we introduce the RobustPrompt Benchmark, a systematic benchmark to evaluate robustness to different prompt templates for VLMs. It includes a dataset with hundreds of carefully designed prompt templates, divided into six types, covering a wide variety of commonly used templates. 
 

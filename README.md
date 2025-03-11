@@ -19,4 +19,30 @@ Beside the benchmark, we propose Modeling Variants of Prompts (MVP), a simple ye
 </div>
 
 ## Requirements
+```bash
+# Install dassl
+git clone https://github.com/KaiyangZhou/Dassl.pytorch.git
+cd Dassl.pytorch/
+conda create -y -n dassl python=3.8
+conda activate dassl
+conda install pytorch torchvision cudatoolkit=10.2 -c pytorch
+pip install -r requirements.txt
+python setup.py develop
+
+# Download our code
+git clone https://github.com/xiaoyaoxinyi/MVP.git
+```
+
+## How to run
+```bash
+# Please refer to https://github.com/KaiyangZhou/CoOp
+bash script/promptclip/main.sh dataset rn50 16
+```
+
+## How to evaluate
+```bash
+# Please refer to https://github.com/KaiyangZhou/CoOp
+bash script/promptclip/eval.sh dataset rn50
+```
+
 Coming Soon...😊

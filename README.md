@@ -1,5 +1,7 @@
 # Modeling Variants of Prompts for Vision-Language Models
 
+[arxiv](https://arxiv.org/abs/2503.08229)
+
 **Ao Li***, **Zongfang Liu***, **Xinhua Li**, **Jinghui Zhang**, **Pengwei Wang**† , **Hu Wang**† 
 
 - *Equal contribution  
@@ -45,4 +47,15 @@ bash script/promptclip/main.sh dataset rn50 16
 bash script/promptclip/eval.sh dataset rn50
 ```
 
-Coming Soon...😊
+## Cite us
+```
+@misc{li2025modelingvariantspromptsvisionlanguage,
+      title={Modeling Variants of Prompts for Vision-Language Models}, 
+      author={Ao Li and Zongfang Liu and Xinhua Li and Jinghui Zhang and Pengwei Wang and Hu Wang},
+      year={2025},
+      eprint={2503.08229},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2503.08229}, 
+}
+```

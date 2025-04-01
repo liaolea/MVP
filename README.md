@@ -1,11 +1,11 @@
 # Modeling Variants of Prompts for Vision-Language Models
 
-[arxiv](https://arxiv.org/abs/2503.08229)
-
 **Ao Li***, **Zongfang Liu***, **Xinhua Li**, **Jinghui Zhang**, **Pengwei Wang**† , **Hu Wang**† 
 
 - *Equal contribution  
 - †Corresponding author
+
+Our paper:[arxiv](https://arxiv.org/abs/2503.08229)
 
 ## Introduction
 We introduce the RobustPrompt Benchmark, a systematic benchmark to evaluate robustness to different prompt templates for VLMs. It includes a dataset with hundreds of carefully designed prompt templates, divided into six types, covering a wide variety of commonly used templates. 

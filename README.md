@@ -1,4 +1,4 @@
-# mvp: Modeling Variants of Prompts for Vision-Language Models
+# MVP: Modeling Variants of Prompts for Vision-Language Models
 
 **Ao Li***, **Zongfang Liu***, **Xinhua Li**, **Jinghui Zhang**, **Pengwei Wang**† , **Hu Wang**† 
 

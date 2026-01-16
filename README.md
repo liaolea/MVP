@@ -1,4 +1,4 @@
-# MVP: Modeling Variants of Prompts for Vision-Language Models
+# (ICASSP 2026) MVP: Modeling Variants of Prompts for Vision-Language Models
 
 **Ao Li***, **Zongfang Liu***, **Xinhua Li**, **Jinghui Zhang**, **Pengwei Wang**† , **Hu Wang**† 
 
